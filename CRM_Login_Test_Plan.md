@@ -228,4 +228,4 @@ Testing will resume when:
 | :--- | :--- | :--- | :--- |
 | **Senior QA Engineer** | Senior QA Lead | Submitted for Review | Proposed |
 | **Development Lead** | Lead Software Engineer | Pending Review | Proposed |
-| **Product Owner** | CRM Product Owner | Approved | Approved |
+| **Product Owner** | CRM Product Owner | Approved | Approved
